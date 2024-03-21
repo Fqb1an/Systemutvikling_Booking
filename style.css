@@ -1,0 +1,70 @@
+.body_login{
+    background-color: #585859;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.form_wrapper{
+    width: 370px;
+    height: 209px;
+    background-color: #787B57;
+
+}
+
+.heading{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.heading, h1{
+    text-align: center;
+    color: white;
+
+}
+
+.info{
+    justify-content: center;
+    text-align: center;
+
+}
+
+.username{
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    background-color: transparent
+
+}
+
+
+.username, h2{
+    margin: 0;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 85%;
+    color: white;
+    
+}
+
+.password{
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    
+
+}
+
+.password, h2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 85%;
+    color: white;
+
+}
